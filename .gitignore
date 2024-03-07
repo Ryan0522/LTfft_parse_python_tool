@@ -17,6 +17,7 @@ eggs/
 lib/
 lib64/
 parts/
+bin/
 sdist/
 var/
 wheels/
@@ -25,6 +26,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+# Installer logs
+pip-log.txt
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
